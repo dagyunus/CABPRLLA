@@ -1,0 +1,3 @@
+"./msp430x22x4_1.obj"
+"../lnk_msp430f2252.cmd"
+-llibc.a
