@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "C:/Users/Y/workspace_ccstheia/CABPRLLA/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA/include\" -D__MSP430F2252__ -xc",
+      "file"      : "C:/Users/Y/workspace_ccstheia/CABPRLLA/msp430x22x4_1.c"
+   },
+   {
+      "directory" : "C:/Users/Y/workspace_ccstheia/CABPRLLA/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA/include\" -D__MSP430F2252__ -xc",
+      "file"      : "C:/Users/Y/workspace_ccstheia/CABPRLLA/source/hal_adc.c"
+   },
+   {
+      "directory" : "C:/Users/Y/workspace_ccstheia/CABPRLLA/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA/include\" -D__MSP430F2252__ -xc",
+      "file"      : "C:/Users/Y/workspace_ccstheia/CABPRLLA/source/hal_gpio.c"
+   },
+   {
+      "directory" : "C:/Users/Y/workspace_ccstheia/CABPRLLA/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA/include\" -D__MSP430F2252__ -xc",
+      "file"      : "C:/Users/Y/workspace_ccstheia/CABPRLLA/source/modbus.c"
+   },
+   {
+      "directory" : "C:/Users/Y/workspace_ccstheia/CABPRLLA/Debug",
+      "command"   : "clang++ -I\"D:/CCS/ccs/ccs_base/msp430/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA\" -I\"D:/CCS/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"C:/Users/Y/workspace_ccstheia/CABPRLLA/include\" -D__MSP430F2252__ -xc",
+      "file"      : "C:/Users/Y/workspace_ccstheia/CABPRLLA/source/hal_uart.c"
+   }
+]
