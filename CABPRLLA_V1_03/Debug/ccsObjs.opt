@@ -1,0 +1,7 @@
+"./msp430x22x4_1.obj"
+"./source/hal_adc.obj"
+"./source/hal_gpio.obj"
+"./source/hal_uart.obj"
+"./source/modbus.obj"
+"../lnk_msp430f2252.cmd"
+-llibc.a
